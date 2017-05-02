@@ -1,0 +1,28 @@
+{
+  "name": "twitter_keyword_stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveBitter/twitter_keyword_stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveBitter/twitter_keyword_stream/issues"
+  },
+  "homepage": "https://github.com/DaveBitter/twitter_keyword_stream#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "pug": "^2.0.0-rc.1",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
